@@ -2,3 +2,4 @@ Test File
 
 Notepad
 
+This is an exercise for class.
